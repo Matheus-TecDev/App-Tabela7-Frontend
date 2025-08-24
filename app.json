@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Server",
-    "slug": "Server",
+    "name": "Seven Motors",
+    "slug": "seven-motors",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "server",
+    "scheme": "Seven Motors",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -13,10 +13,11 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.math3u55fr3i43.Server"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "a72bd5b0-c955-4697-b07d-8d5b3223d8ce"
+      }
+    },
+    "owner": "math3u55fr3i43"
   }
 }
