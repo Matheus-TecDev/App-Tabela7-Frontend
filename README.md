@@ -1,50 +1,58 @@
-# Welcome to your Expo app 👋
+# 📱 AppTab7  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📖 Descrição  
 
-## Get started
+O **AppTab7** é um **aplicativo mobile** desenvolvido em **TSX com Expo**, criado em parceria para apresentar uma proposta inovadora aos clientes.  
+As letras maiores e mais espaçadas não são por falta de estilização, mas sim uma decisão de **usabilidade**: facilitar a leitura em tela única, já que os clientes não desejavam uma tabela com rolagem horizontal.  
+Uma solução prática e funcional, construída como amostra para validar usabilidade, testar novas abordagens e colher feedbacks reais.  
 
-1. Install dependencies
+---
+
+## 🎮 Preview  
+
+![Preview do Aplicativo](Images/preview.png)   
+
+---
+
+## ⚡ Funcionalidades  
+
+- Estrutura completa em **React Native com Expo**.  
+- Interface moderna, responsiva e intuitiva.  
+- Aplicativo funcional para demonstração a clientes.  
+- Base sólida para futuras integrações e features.  
+
+---
+
+## 📚 Tecnologias utilizadas  
+
+- **TypeScript (TSX)** 🔷  
+- **React Native** ⚛️  
+- **Expo** 📱  
+
+---
+
+## 🚀 Como usar  
+
+1. **Clonar o repositório**  
 
    ```bash
-   npm install
-   ```
+   git clone https://github.com/Matheus-TecDev/AppTab7.git
+Entrar na pasta
 
-2. Start the app
+	cd AppTab7
+Instalar dependências
 
-   ```bash
-   npx expo start
-   ```
+	npm install
 
-In the output, you'll find options to open the app in a
+Rodar no Expo
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+	npx expo start
+	
+## 👨‍💻 Autores
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- [Matheus Freire](https://github.com/Matheus-TecDev)  
+- [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
+ 
+📫 Contato: matheus.tecnodev@gmail.com  
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **Seven Motors**.
