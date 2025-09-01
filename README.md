@@ -37,14 +37,14 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
    ```bash
    git clone https://github.com/Matheus-TecDev/AppTab7.git
-Entrar na pasta
+2. Entrar na pasta
 
 	cd AppTab7
-Instalar dependências
+3. Instalar dependências
 
 	npm install
 
-Rodar no Expo
+4. Rodar no Expo
 
 	npx expo start
 	
