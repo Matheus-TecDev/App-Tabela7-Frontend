@@ -10,7 +10,15 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 ## 🎮 Preview  
 
-![Preview do Aplicativo](Images/preview.jpg)   
+![Preview do Aplicativo](assets/images/AppTabLT.jpg)   
+
+---
+
+## 🔗 Repositórios Relacionados
+
+- [Frontend (este repositório)](https://github.com/Matheus-TecDev/App-Tabela7-Frontend.git)
+- [Frontend (Site em Vite)](https://github.com/Matheus-TecDev/Site-Tabela7-SevenMotors.git)
+- [Backend (API)](https://github.com/Matheus-TecDev/Seven-Motors-Backend.git)
 
 ---
 
@@ -35,17 +43,21 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 1. **Clonar o repositório**  
 
-   ```bash
-   git clone https://github.com/Matheus-TecDev/AppTab7.git
+	```bash
+	git clone https://github.com/Matheus-TecDev/AppTab7.git
+   
 2. Entrar na pasta
 
+	```bash
 	cd AppTab7
 3. Instalar dependências
 
+	```bash
 	npm install
 
 4. Rodar no Expo
 
+	```bash
 	npx expo start
 	
 ## 👨‍💻 Autores
@@ -53,6 +65,6 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
  
-📫 Contato: matheus.tecnodev@gmail.com  
+📫 Contato: [matheus.tecnodev@gmail.com](mailto:matheus.tecnodev@gmail.com) 
 
 🤝 Projeto desenvolvido em parceria com a empresa DTI como amostra para **Seven Motors**.
