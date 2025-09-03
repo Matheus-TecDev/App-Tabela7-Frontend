@@ -10,7 +10,7 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 ## 🎮 Preview  
 
-![Preview do Aplicativo](Images/preview.jpg)  
+![Preview do Aplicativo](Images/preview.jpg)    
 
 ---
 
@@ -59,6 +59,21 @@ Uma solução prática e funcional, construída como amostra para validar usabil
 
 	```bash
 	npx expo start
+	
+---
+
+## 📌 Roadmap (versões futuras)
+
+🔄 Migrar de JavaScript → TypeScript.
+
+📑 Adicionar documentação com Swagger.
+
+🧪 Criar testes unitários (Jest).
+
+⚡ Implementar CI/CD para deploy automatizado.
+
+---
+
 	
 ## 👨‍💻 Autores
 
